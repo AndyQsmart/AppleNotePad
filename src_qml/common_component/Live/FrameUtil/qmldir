@@ -1,0 +1,2 @@
+// qmldir
+singleton FrameUtil 1.0 FrameUtil.qml

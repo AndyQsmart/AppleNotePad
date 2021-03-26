@@ -1,0 +1,2 @@
+PRE_TARGETDEPS
+指定构建时强制重新链接
