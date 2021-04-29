@@ -2,7 +2,6 @@ import QtQuick 2.13
 import QtQuick.Window 2.13
 import QtQuick.Controls.Material 2.0
 import QtQuick.Controls 2.15
-import Qt.labs.platform 1.1
 import QtWebEngine 1.10
 import "./instance_component/SystemTray"
 

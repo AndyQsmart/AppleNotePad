@@ -1,10 +1,12 @@
 QT += quick
 QT += quickcontrols2
 QT += gui
-QT += core
 QT += webengine
 
 CONFIG += c++11
+#CONFIG += console
+
+RC_ICONS = logo.ico
 
 # You can make your code fail to compile if it uses deprecated APIs.
 # In order to do so, uncomment the following line.
