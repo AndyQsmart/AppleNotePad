@@ -1,2 +1,0 @@
-// qmldir
-singleton LiveRecordProcessor 1.0 LiveRecordProcessor.qml

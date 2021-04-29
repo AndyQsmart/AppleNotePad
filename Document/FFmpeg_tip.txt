@@ -1,4 +1,0 @@
-AVFrame:
-data[]
-对于packed格式的数据（例如RGB24），会存到data[0]里面。
-对于planar格式的数据（例如YUV420P），则会分开成data[0]，data[1]，data[2]...（YUV420P中data[0]存Y，data[1]存U，data[2]存V）
